@@ -1,4 +1,4 @@
 # apnacollege2-demo-Divit Pathak
-This is my first git repository Author
+This is my first git repository 
 <br>
-Divit Pathak
+Author-Divit Pathak
